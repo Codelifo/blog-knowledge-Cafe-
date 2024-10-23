@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+      "title": "The Adventures of Alice",
+      "author": "Lewis Carroll",
+      "author_Img": "https://randomuser.me/api/portraits/men/75.jpg",
+      "posted_date": "2023-12-25",
+      "reading_time": 10,
+      "hashtags": ["adventure", "fantasy", "children"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "author_Img": "https://randomuser.me/api/portraits/women/75.jpg",
+      "posted_date": "2024-01-15",
+      "reading_time": 15,
+      "hashtags": ["romance", "classic", "historical"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/RzGzcPg/3.png",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "author_Img": "https://randomuser.me/api/portraits/men/76.jpg",
+      "posted_date": "2024-02-20",
+      "reading_time": 20,
+      "hashtags": ["drama", "american", "jazz age"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "author_Img": "https://randomuser.me/api/portraits/women/76.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 25,
+      "hashtags": ["legal drama", "racism", "southern gothic"]
+    },
+    {
+      "id": 5,
+      "cover": "https://picsum.photos/200/300",
+      "title": "1984",
+      "author": "George Orwell",
+      "author_Img": "https://randomuser.me/api/portraits/men/77.jpg",
+      "posted_date": "2024-04-05",
+      "reading_time": 30,
+      "hashtags": ["dystopian", "science fiction", "political"]
+    }
+  ]
